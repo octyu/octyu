@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @octyu
 - 👀 I’m interested in Dota2
-- 🌱 I’m currently learning Redis
 
 <!---
 octyu/octyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
